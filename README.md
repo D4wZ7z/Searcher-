@@ -13,10 +13,12 @@ Before proceeding with the installation of the required Python modules, ensure t
 
 To begin the installation process:
 
-1. Click on the 📜`module_install.bat` ![module.bat](https://cdn.discordapp.com/attachments/1204492045603831898/1227346983765676042/image.png?ex=662812f3&is=66159df3&hm=a102a5a051695f208036cdead9803cfac240424291e6ed833dbffe5ea07e0498&) 📜 file to install the essential Python modules required for the searcher.
-2. After the modules are installed, execute the 🚀`Start`🚀 file to initiate the search process.
-
-And that's it! You're ready to enjoy the fast and efficient searching provided by Fast Searcher. Please note that while this 🛠️tool🛠️ can be useful, it should be used responsibly, and the developer holds no responsibility for its misuse.
+1. Click on the 📜`module_install.bat`📜 
+![module.bat](https://cdn.discordapp.com/attachments/1204492045603831898/1227346983765676042/image.png?ex=662812f3&is=66159df3&hm=a102a5a051695f208036cdead9803cfac240424291e6ed833dbffe5ea07e0498&) 
+file to install the essential Python modules required for the searcher.
+2. After the modules are installed, execute the 🚀`Start`🚀 file to initiate the search process. 
+![start.bat](https://cdn.discordapp.com/attachments/1204492045603831898/1227347315992563742/image.png?ex=66281343&is=66159e43&hm=ad98018e12b9139ce284a302e93199eba7aad4071f0be75245bd3a8338301025&) 
+3.And that's it! You're ready to enjoy the fast and efficient searching provided by Fast Searcher. Please note that while this 🛠️tool🛠️ can be useful, it should be used responsibly, and the developer holds no responsibility for its misuse.
 
 ## Disclaimer
 
