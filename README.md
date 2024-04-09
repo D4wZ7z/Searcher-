@@ -1,22 +1,39 @@
-Here's the searcher I created.
+#⚡️ Fast Searcher⚡️
 
-The aim of my searcher is equivalent to grep -r or ripgrep in the linux terminal. Hackers often find you thanks to the DB and type the grep -r command to do so.
-
- but since most of them have large databases of up to 1to, the search time is very long, which is why I created my fast searcher.
-
------------------------------------Instruction-----------------------------------
-BEFORE STARTING THE PROCEDURE TO INSTALL THE SEARCHER'S REQUIRED PYTHON MODULES, YOU NEED TO PUT YOUR "DATABASE" IN THE 📁FOLDER📁
-DB
-
-(If there are sub-folders it doesn't matter, it'll find everything)
+MY SOCIAL LINK : https://guns.lol/D4wZ7z
 
 
-Please click on the .bat file (module_install) which is used to install the essential modules for the python searcher.
+## Introduction
 
-after installing the modules, click on the file (Start)
+Fast Searcher is a 💻Python💻 🛠️tool🛠️ designed to perform searches similar to `grep -r` or `ripgrep` in the Linux terminal. 🕵️‍♂️Hackers🕵️‍♂️ often utilize such commands to scour through databases and find information. However, dealing with large databases, sometimes up to 1 terabyte in size, can lead to excessively long search times. To mitigate this issue, ⚡️Fast Searcher⚡️ was developed to provide faster search capabilities.
 
-And that's it, have fun!
---------------------------------------------------------------------------------
+## Usage Instructions
 
+Before proceeding with the installation of the required Python modules, ensure that you have placed your 📁 database 📁 in the `DB` folder. Sub-folders within the 📁 DB folder 📁 are also supported; Fast Searcher will search through all directories recursively.
 
-I am not responsible for the use of this tool
+To begin the installation process:
+
+1. Click on the 📜`module_install.bat` ![module.bat](https://cdn.discordapp.com/attachments/1204492045603831898/1227346983765676042/image.png?ex=662812f3&is=66159df3&hm=a102a5a051695f208036cdead9803cfac240424291e6ed833dbffe5ea07e0498&) 📜 file to install the essential Python modules required for the searcher.
+2. After the modules are installed, execute the 🚀`Start`🚀 file to initiate the search process.
+
+And that's it! You're ready to enjoy the fast and efficient searching provided by Fast Searcher. Please note that while this 🛠️tool🛠️ can be useful, it should be used responsibly, and the developer holds no responsibility for its misuse.
+
+## Disclaimer
+
+⚠️ Use this 🛠️tool🛠️ responsibly and at your own risk.
+
+## Emojis
+
+Here are some emojis that might complement the text:
+- 🕵️‍♂️ - Represents the investigative aspect of hackers.
+- ⚡️ - Symbolizes the speed of Fast Searcher.
+- 🔍 - Indicates the search function.
+- 💻 - Represents computer usage.
+- 🛠️ - Symbolizes the tool/utility aspect of Fast Searcher.
+- 🚀 - Represents the launch/start of the tool.
+
+Feel free to use them to enhance your README!
+
+---
+
+By D4wZ7z
