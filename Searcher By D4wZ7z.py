@@ -36,7 +36,7 @@ def search_files(keyword, directory="."):
                             found_entries.append(entry)
                             matching_lines.append(line.strip())  
                 if matching_lines:
-                    print(Colorate.Horizontal(Colors.green_to_red,(f"Mot trouvé dans le fichier : {file_path}")))
+                    print(Colorate.Horizontal(Colors.green_to_red,(f"Word found in file : {file_path}")))
                     for line in matching_lines:
                         print(Colorate.Horizontal(Colors.green_to_yellow,(f"Ligne {line_number}: {line}")))
                     print()  
@@ -55,7 +55,7 @@ def main():
     root_directory = os.path.join(os.path.dirname(os.path.abspath(__file__)), "DB")
     
     if not os.path.exists(root_directory) or not os.path.isdir(root_directory):
-        print(Colorate.Horizontal(Colors.purple_to_blue,("Le répertoire DB n'existe pas.")))
+        print(Colorate.Horizontal(Colors.purple_to_blue,("The DB directory does not exist.")))
         return
     
     menu_text = ""
@@ -67,7 +67,7 @@ def main():
     while True:
         print()
         print()
-        keyword = input(Colorate.Horizontal(Colors.red_to_blue,("\nTapez le mot à rechercher et appuyez sur Entrée (Q pour quitter) : ")))
+        keyword = input(Colorate.Horizontal(Colors.red_to_blue,("\nType the word you wish to search for and press Enter (Q to exit) : ")))
         
         if keyword.lower() == "q":
             break
@@ -77,14 +77,14 @@ def main():
         if entries:
             print("\nRésultats :")
             for entry in entries:
-                print(Colorate.Horizontal(Colors.red_to_yellow,(f"Mot trouvé dans le fichier : {entry['file_path']}")))
+                print(Colorate.Horizontal(Colors.red_to_yellow,(f"Word found in file : {entry['file_path']}")))
                 print()
-                print(Colorate.Horizontal(Colors.green_to_cyan,(f"Ligne {entry['line_number']}: {entry['line_content']}\n")))
+                print(Colorate.Horizontal(Colors.green_to_cyan,(f"Line {entry['line_number']}: {entry['line_content']}\n")))
                 print()
                 print()
-            print(Colorate.Horizontal(Colors.rainbow,(f"Temps de recherche : {search_duration:.2f} secondes")))
+            print(Colorate.Horizontal(Colors.rainbow,(f"Search time : {search_duration:.2f} secondes")))
         else:
-            print(Colorate.Horizontal(Colors.red_to_blue,("\nAucun résultat trouvé.")))
+            print(Colorate.Horizontal(Colors.red_to_blue,("\nNo results found.")))
 
 if __name__ == "__main__":
     main()
