@@ -30,7 +30,7 @@ To begin the installation process:
 
 VIDEO :
 
-https://cdn.discordapp.com/attachments/1204492045603831898/1227356815092748308/2024-04-09_22-35-38.mkv?ex=66281c1b&is=6615a71b&hm=5086056c985f82cc1febeedbedc9953e032edcb27e7e79d003c10910e6410db3&
+[Regarder la vidéo](https://cdn.discordapp.com/attachments/1204492045603831898/1227356815092748308/2024-04-09_22-35-38.mkv?ex=66281c1b&is=6615a71b&hm=5086056c985f82cc1febeedbedc9953e032edcb27e7e79d003c10910e6410db3&)
 
 
 
