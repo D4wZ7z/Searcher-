@@ -17,7 +17,7 @@ Before proceeding with the installation of the required Python modules, ensure t
 EXEMPLE DB : 
 ![image](https://github.com/D4wZ7z/Searcher-/assets/166541999/6ca1be35-70d7-4f24-afad-eb798f2cf9f9)
 
-
+⚠️Important information⚠️: You need to create a folder called "DB" so that the searcher detects the DB folder and searches for people in your db.
 
 To begin the installation process:
 
