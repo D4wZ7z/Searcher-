@@ -27,6 +27,13 @@ To begin the installation process:
 2. After the modules are installed, execute the 🚀`Start`🚀 file to initiate the search process. 
 ![start.bat](https://cdn.discordapp.com/attachments/1204492045603831898/1227347315992563742/image.png?ex=66281343&is=66159e43&hm=ad98018e12b9139ce284a302e93199eba7aad4071f0be75245bd3a8338301025&) 
 
+
+VIDEO :
+
+https://cdn.discordapp.com/attachments/1204492045603831898/1227356815092748308/2024-04-09_22-35-38.mkv?ex=66281c1b&is=6615a71b&hm=5086056c985f82cc1febeedbedc9953e032edcb27e7e79d003c10910e6410db3&
+
+
+
 3.And that's it! You're ready to enjoy the fast and efficient searching provided by Fast Searcher. Please note that while this 🛠️tool🛠️ can be useful, it should be used responsibly, and the developer holds no responsibility for its misuse.
 
 ## Disclaimer
