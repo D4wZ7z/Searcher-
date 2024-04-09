@@ -14,10 +14,6 @@ Before proceeding with the installation of the required Python modules, ensure t
 ![image](https://github.com/D4wZ7z/Searcher-/assets/166541999/ae24b09c-84e0-425a-94f7-2d31c26f4538)
 
 
-
-EXEMPLE DB : 
-![image](https://github.com/D4wZ7z/Searcher-/assets/166541999/6ca1be35-70d7-4f24-afad-eb798f2cf9f9)
-
 ⚠️Important information⚠️: You need to create a folder called "DB" so that the searcher detects the DB folder and searches for people in your db.
 
 To begin the installation process:
@@ -28,9 +24,9 @@ To begin the installation process:
 ![start.bat](https://cdn.discordapp.com/attachments/1204492045603831898/1227347315992563742/image.png?ex=66281343&is=66159e43&hm=ad98018e12b9139ce284a302e93199eba7aad4071f0be75245bd3a8338301025&) 
 
 
-VIDEO :
+🎥VIDEO🎥 :
 
-[Regarder la vidéo](https://cdn.discordapp.com/attachments/1204492045603831898/1227356815092748308/2024-04-09_22-35-38.mkv?ex=66281c1b&is=6615a71b&hm=5086056c985f82cc1febeedbedc9953e032edcb27e7e79d003c10910e6410db3&)
+[Watch the video](https://cdn.discordapp.com/attachments/1204492045603831898/1227356815092748308/2024-04-09_22-35-38.mkv?ex=66281c1b&is=6615a71b&hm=5086056c985f82cc1febeedbedc9953e032edcb27e7e79d003c10910e6410db3&)
 
 
 
