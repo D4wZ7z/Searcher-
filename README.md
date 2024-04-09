@@ -26,7 +26,7 @@ To begin the installation process:
 
 🎥VIDEO🎥 :
 
-[Watch the video](https://cdn.discordapp.com/attachments/1204492045603831898/1227356815092748308/2024-04-09_22-35-38.mkv?ex=66281c1b&is=6615a71b&hm=5086056c985f82cc1febeedbedc9953e032edcb27e7e79d003c10910e6410db3&)
+[Watch the video](https://cdn.discordapp.com/attachments/1204492045603831898/1227358090169421824/2024-04-09_22-35-38.mp4?ex=66281d4b&is=6615a84b&hm=712a8c5d79e7d774af874e3e75ca888b3808505b06478e159aed06285beac115&)
 
 
 
