@@ -10,6 +10,14 @@ Fast Searcher is a 💻Python💻 🛠️tool🛠️ designed to perform searche
 ## Usage Instructions
 
 Before proceeding with the installation of the required Python modules, ensure that you have placed your 📁 database 📁 in the `DB` folder. Sub-folders within the 📁 DB folder 📁 are also supported; Fast Searcher will search through all directories recursively.
+![image](https://github.com/D4wZ7z/Searcher-/assets/166541999/ae24b09c-84e0-425a-94f7-2d31c26f4538)
+
+
+
+EXEMPLE DB : 
+![image](https://github.com/D4wZ7z/Searcher-/assets/166541999/6ca1be35-70d7-4f24-afad-eb798f2cf9f9)
+
+
 
 To begin the installation process:
 
