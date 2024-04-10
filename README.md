@@ -52,12 +52,12 @@ Feel free to use them to enhance your README!
 
 ## Donation
 
-If you find Fast Searcher helpful and would like to support its development, consider making a donation:
+If you find ⚡️Fast Searcher⚡️ helpful and would like to support its development, consider making a donation:
 
-- Bitcoin (BTC): [bc1qf5xy98hf35g23mvqkk3hcps4jjfw5mc37r0e0s]
-- Ethereum (ETH): [0x69Bfc86f1CA9C38f8B8a4eF81e33aF8B5F2D078D]
+- 💰Bitcoin💰 (BTC): [bc1qf5xy98hf35g23mvqkk3hcps4jjfw5mc37r0e0s]
+- 💎Ethereum💎 (ETH): [0x69Bfc86f1CA9C38f8B8a4eF81e33aF8B5F2D078D]
 
-Your support is greatly appreciated! 🙏
+Your support is greatly appreciated! 🙏❤️❤️
 
 
 By D4wZ7z
