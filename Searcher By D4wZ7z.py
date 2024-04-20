@@ -27,6 +27,7 @@ def print_logo():
     print(Colorate.Horizontal(Colors.rainbow,"|                                      |"))
     print(Colorate.Horizontal(Colors.rainbow,"[+]Server https://discord.gg/ZQKRncDB  [+]"))
     print(Colorate.Horizontal(Colors.rainbow,"[+]Maded by D4wZ7z                     [+]"))              
+    print(Colorate.Horizontal(Colors.rainbow,"[+]TEAM CACA MOU >>>>                  [+]                     "))
     print(Colorate.Horizontal(Colors.rainbow,"|                                      |"))
     print(Colorate.Horizontal(Colors.rainbow,"+---------------Searcher---------------+"))
 
