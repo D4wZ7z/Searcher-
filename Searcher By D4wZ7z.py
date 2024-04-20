@@ -4,6 +4,13 @@ from colorama import init, Fore
 from pystyle import Colorate, Colors
 import time
 
+
+def clear_cmd():
+    if os.name == 'nt': #windows
+        _ = os.system('cls')
+    else:
+        _ = os.system('clear') #linux ou mac
+
 def print_logo():
      
     print(Colorate.Horizontal(Colors.rainbow," /$$$$$$$  /$$   /$$              /$$$$$$$$     /$$$$$$$$        "))
@@ -14,7 +21,15 @@ def print_logo():
     print(Colorate.Horizontal(Colors.rainbow,"| $$  | $$      | $$| $$ | $$ | $$ /$$/          /$$/    /$$__/  "))
     print(Colorate.Horizontal(Colors.rainbow,"| $$$$$$$/      | $$|  $$$$$/$$$$//$$$$$$$$ /$$ /$$/    /$$$$$$$$"))
     print(Colorate.Horizontal(Colors.rainbow,"|_______/       |__/ \_____/\___/|________/|__/|__/    |________/"))    
-    print(Colorate.Horizontal(Colors.rainbow,""))                                                                             
+    print(Colorate.Horizontal(Colors.rainbow,""))                                                                           
+    print(Colorate.Horizontal(Colors.rainbow,"                                                                             "))
+    print(Colorate.Horizontal(Colors.rainbow,"+---------------Searcher---------------+"))
+    print(Colorate.Horizontal(Colors.rainbow,"|                                      |"))
+    print(Colorate.Horizontal(Colors.rainbow,"[+]Server https://discord.gg/ZQKRncDB  [+]"))
+    print(Colorate.Horizontal(Colors.rainbow,"[+]Maded by D4wZ7z                     [+]"))              
+    print(Colorate.Horizontal(Colors.rainbow,"|                                      |"))
+    print(Colorate.Horizontal(Colors.rainbow,"+---------------Searcher---------------+"))
+
 
 def search_files(keyword, directory="."):
     found_entries = []
@@ -52,7 +67,7 @@ def clear_screen():
 
 def main():
     clear_screen()
-    root_directory = os.path.join(os.path.dirname(os.path.abspath(__file__)), "DB")
+    root_directory = os.path.join(os.path.dirname(os.path.abspath(__file__)), "dump")
     
     if not os.path.exists(root_directory) or not os.path.isdir(root_directory):
         print(Colorate.Horizontal(Colors.purple_to_blue,("The DB directory does not exist.")))
@@ -67,10 +82,15 @@ def main():
     while True:
         print()
         print()
-        keyword = input(Colorate.Horizontal(Colors.red_to_blue,("\nType the word you wish to search for and press Enter (Q to exit) : ")))
+        keyword = input(Colorate.Horizontal(Colors.red_to_blue,("\nType the word you wish to search for and press Enter ('Q' to exit and 'cls' to clear cmd ) : ")))
+                    
         
         if keyword.lower() == "q":
             break
+        else:
+            if keyword.lower() == "cls":
+                clear_cmd()
+
         
         entries, search_duration = search_files(keyword, root_directory)
 
