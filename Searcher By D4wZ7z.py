@@ -67,7 +67,7 @@ def clear_screen():
 
 def main():
     clear_screen()
-    root_directory = os.path.join(os.path.dirname(os.path.abspath(__file__)), "dump")
+    root_directory = os.path.join(os.path.dirname(os.path.abspath(__file__)), "DB")
     
     if not os.path.exists(root_directory) or not os.path.isdir(root_directory):
         print(Colorate.Horizontal(Colors.purple_to_blue,("The DB directory does not exist.")))
