@@ -2,7 +2,7 @@
 
 MY SOCIAL LINK : https://guns.lol/D4wZ7z
 
-INSTALL : `git clone https://github.com/D4wZ7z/Searcher
+INSTALL : `git clone https://github.com/D4wZ7z/Searcher](https://github.com/D4wZ7z/Searcher-/
 &&cd Searcher`
 
 
