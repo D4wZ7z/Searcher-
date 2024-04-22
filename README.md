@@ -40,18 +40,6 @@ https://github.com/D4wZ7z/Searcher-/assets/166541999/e2600b47-59ff-4611-b40c-9c2
 
 ⚠️ Use this 🛠️tool🛠️ responsibly and at your own risk.
 
-## Emojis
-
-Here are some emojis that might complement the text:
-- 🕵️‍♂️ - Represents the investigative aspect of hackers.
-- ⚡️ - Symbolizes the speed of Fast Searcher.
-- 🔍 - Indicates the search function.
-- 💻 - Represents computer usage.
-- 🛠️ - Symbolizes the tool/utility aspect of Fast Searcher.
-- 🚀 - Represents the launch/start of the tool.
-
-Feel free to use them to enhance your README!
-
 
 ## Donation
 
