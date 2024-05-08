@@ -51,4 +51,4 @@ If you find ⚡️Fast Searcher⚡️ helpful and would like to support its deve
 Your support is greatly appreciated! 🙏❤️❤️
 
 
-By D4wZ7z
+By D4wZ7z (Dawzz)
