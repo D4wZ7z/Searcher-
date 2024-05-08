@@ -1,6 +1,6 @@
 #⚡️ Fast Searcher⚡️
 
-MY SOCIAL LINK : https://guns.lol/D4wZ7z
+MY SOCIAL LINK : https://guns.lol/Dawzz
 
 INSTALL : `git clone https://github.com/D4wZ7z/Searcher-/&&cd Searcher-&&start module_install.bat&&mkdir DB&&start Start.bat`
 
