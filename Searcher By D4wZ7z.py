@@ -26,7 +26,8 @@ def print_logo():
     print(Colorate.Horizontal(Colors.rainbow,"+---------------Searcher---------------+"))
     print(Colorate.Horizontal(Colors.rainbow,"|                                      |"))
     print(Colorate.Horizontal(Colors.rainbow,"[+]Server https://discord.gg/ZQKRncDB  [+]"))
-    print(Colorate.Horizontal(Colors.rainbow,"[+]Maded by D4wZ7z                     [+]"))              
+    print(Colorate.Horizontal(Colors.rainbow,"[+]Maded by D4wZ7z                     [+]"))  
+    print(Colorate.Horizontal(Colors.rainbow,"[+]Support from wh1t3c4tc4d            [+]"))   
     print(Colorate.Horizontal(Colors.rainbow,"[+]TEAM CACA MOU >>>>                  [+]                     "))
     print(Colorate.Horizontal(Colors.rainbow,"|                                      |"))
     print(Colorate.Horizontal(Colors.rainbow,"+---------------Searcher---------------+"))
@@ -38,7 +39,7 @@ def search_files(keyword, directory="."):
     
     for root, dirs, files in os.walk(directory):
         for file in files:
-            if file.endswith(".txt"):
+            if file.endswith(".txt", ".sql"):
                 file_path = os.path.join(root, file)
                 matching_lines = []  
                 with open(file_path, 'r', encoding='latin1') as f:
